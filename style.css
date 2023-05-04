@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgba(10, 238, 29, 0.781);
+    background-image: url(../Jumat/img/padang.webp);
+    
+}
+a{
+    float: left;
+    color: inherit;
+    text-decoration-line: none;
+   
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    height: 10vh;
+    display: block;
+    
+}
+header{
+   
+}
+header h1{
+    float: left;
+    padding: 10px 0;
+    color: rgba(2, 24, 5, 0.932);
+    
+}
+header ul{
+    float: right;
+}
+header ul li{
+    display: inline-block;
+}
+header ul li a{
+    padding: 25px 20px;
+    display: inline-block;
+}
+header ul li a:hover{
+    background-color:rgb(238, 205, 16);
+    color:  rgba(143, 77, 3, 0.897);
+}
+.active{
+    background-color:rgb(238, 205, 16);
+    color: rgba(143, 77, 3, 0.897);
+}
+.food {
+    background-image: url(../Jumat/img/sateeeeeee.jpeg);
+}

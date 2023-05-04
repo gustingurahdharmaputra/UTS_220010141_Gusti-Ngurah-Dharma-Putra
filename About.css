@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(179, 159, 153);
+}
+section{
+    padding: 50px 0;
+}
+section h3{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px 0;
+    color: rgb(29, 11, 190);
+}
+.about{
+    text-align: center;
+    font-size: 20px;
+    color:rgb(29, 11, 190) ;
+    word-spacing: ;
+}
